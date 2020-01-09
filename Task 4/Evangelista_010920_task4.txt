@@ -1,0 +1,2 @@
+SELECT dept_code,crs_description from "010920".Course
+WHERE crs_credit = 3
